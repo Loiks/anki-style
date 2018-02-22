@@ -14,4 +14,7 @@ Thumbs.db
 .Trashes
 
 # project folders
-_*/
+\~*/
+
+# depreciated files
+\~*
